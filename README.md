@@ -3,7 +3,7 @@ Eine Prototype-Applikation, welche Hintergrundgeräusche für die Entspannung ab
 
 Studentisches Projekt welches im Rahmen der WBA1 Challenge 2017 der TH Köln am Campus Gummersbach entstanden ist.
 
-![AmbienT Tesla Screen](https://github.com/dariola/finalchallenge2017/blob/681c7c3b11af12e616767576fdf4d3bd283dc048/TeslaScreen.jpeg?raw=true)
+![AmbienT Tesla Screen](https://github.com/bschmalb/AmbienT/blob/d7962a8a9d2100450bfc18b7dba5923c9d1a6586/TeslaScreen.jpeg?raw=true)
  
 ## Contributors 
 * **Svend Becker** - [Github](https://github.com/svendb96)
